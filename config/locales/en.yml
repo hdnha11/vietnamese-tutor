@@ -1,3 +1,2 @@
 en:
-  hello: "Hello"
-  hello_2: "Hello <@%{user}>!"
+  hello: "Hello <@%{user}>!"
